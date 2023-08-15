@@ -1,4 +1,4 @@
-Filename = "../Web_app/todos.txt"
+Filename = "todos.txt"
 
 def read_todo(filename = Filename):
     """Reads the items of the todos storage file into a LIST format"""
